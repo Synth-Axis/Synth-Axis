@@ -1,4 +1,4 @@
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 8px;">
+<div style="background:url("https://t3.ftcdn.net/jpg/03/22/22/56/360_F_322225640_9woTPc71vuaAapO8bGbNGKU5JbLgQUeQ.jpg"); padding: 20px; border-radius: 8px;">
 
 ## <span style="color: #4A90E2;">Hey there, I'm Sergio 👋</span>
 
