@@ -5,7 +5,7 @@
 I'm a <strong style="color: #E67E22;">Full Stack Web Developer</strong> and <strong style="color: #E67E22;"></strong> with a passion for building web applications from front to back. I love learning new technologies and finding ways to make complex tasks easier. 🚀
 
 - 🌱 Currently learning <strong style="color: #E67E22;">Next.js</strong>.
-- 🔧 Love working with <strong style="color: #E67E22;">Java</strong>, <strong style="color: #E67E22;">React</strong>, <strong style="color: #E67E22;">JavaScript</strong>, and <strong style="color: #E67E22;">PHP/MYSQL</strong> to create powerful applications.
+- 🔧 Love working with <strong style="color: #E67E22;">React</strong>, <strong style="color: #E67E22;">JavaScript</strong>, and <strong style="color: #E67E22;">PHP/MYSQL</strong> to create powerful applications.
 - ✨ Focused on writing clean and efficient code.
 - 🔗 Let's connect and collaborate! 
 
