@@ -54,4 +54,4 @@ I'm a <strong style="color: #E67E22;">Full Stack Web Developer</strong> and <str
 
 ### <span style="color: #4A90E2;">⚡ Fun fact</span>
 
-When I'm not coding, you can find me in World of Warcraft gathering plants, herbs and leading my group to some of the most epic chalenges. You can also follow my DJ project at  <a href="https://soundcloud.com/synth-axis" target="_blank">Synthaxis Soundcloud</a>
+When I'm not coding, you can find me in World of Warcraft gathering plants, herbs and leading my group to some of the most epic challenges. You can also follow my DJ project at  <a href="https://soundcloud.com/synth-axis" target="_blank">Synthaxis Soundcloud</a>
