@@ -1,6 +1,6 @@
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 8px;">
 
-## <span style="color: #4A90E2;">Hey there, I'm Sergio 👋</span>
+## <span style="color: #4A90E2;">Hey there, I'm Alexandre 👋</span>
 
 I'm a <strong style="color: #E67E22;">Full Stack Web Developer</strong> and <strong style="color: #E67E22;"></strong> with a passion for building web applications from front to back. I love learning new technologies and finding ways to make complex tasks easier. 🚀
 
