@@ -42,8 +42,6 @@ I'm a <strong style="color: #E67E22;">Full Stack Web Developer</strong> and <str
  
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="48"/>
 
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS" height="48"/>
-
 </div>
 
 ---
