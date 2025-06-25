@@ -48,10 +48,11 @@ I'm a <strong style="color: #E67E22;">Full Stack Web Developer</strong> and <str
   <span> &nbsp;</span>
  
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="48"/>
-  
+  <span> &nbsp;</span>
 
  <img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" alt="PostgresSQL" height="48"/>
-
+  <span> &nbsp;</span>
+  
 </div>
 
 ---
